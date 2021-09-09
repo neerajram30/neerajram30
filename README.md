@@ -16,5 +16,13 @@ Here are some ideas to get you started:
 -->
 I'm Neeraj, I'm a web Developer from kerala
 
-⚡⚡My status ⚡⚡            
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30)](https://github.com/anuraghazra/github-readme-stats)
+⚡⚡My status ⚡⚡       
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+⚡⚡Languages⚡⚡
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajram30)](https://github.com/anuraghazra/github-readme-stats)
