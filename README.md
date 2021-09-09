@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Neeraj, I'm a web Developer from kerala
+
+                                    My status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30)](https://github.com/anuraghazra/github-readme-stats)
