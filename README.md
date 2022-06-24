@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Neeraj, I'm a web Developer from kerala
+I'm Neeraj, I'm a kerala based student developer. I,m currently studying my Btech computer sceience degreee from COLLEGE OF ENGINEERING CHERTALA. Currently working on some small projects and looking for a cool open source project to contribute 
 
 ⚡⚡My status ⚡⚡       
 
