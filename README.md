@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### :sparkles: I'm a kerala based Full stack web developer and programmer \
-:man_technologist: Currently working on NextJS, Flask, NLP  \
-:telescope: Opensource lover, looking for an opensource project to contribute \
-:man_student: Btech computer science student from COLLEGE OF ENGINEERING CHERTALA
+### :sparkles: I'm a kerala based Full stack web developer and programmer\
+### :man_technologist: Currently working on NextJS, Flask, NLP\
+### :telescope: Opensource lover, looking for an opensource project to contribute \
+#### :man_student: Btech computer science student from COLLEGE OF ENGINEERING CHERTALA
 
 ### :selfie: Social
 [![LinkedIn][Linkedin]][linkedinurl] [![Twitter][Twitter]][twitter-url] [![Instagram][Instagram]][instagram-url]
