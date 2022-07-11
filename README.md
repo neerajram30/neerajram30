@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### :sparkles: I'm a kerala based Full stack web developer and programmer
-#### :man_technologist: Currently working on NextJS, Flask, NLP
+#### :man_technologist: Currently working on a secret project in MERN stack
 #### :telescope: Opensource lover, looking for an opensource project to contribute 
 #### :man_student: Btech computer science student from COLLEGE OF ENGINEERING CHERTALA
 
