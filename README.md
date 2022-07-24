@@ -28,12 +28,13 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### :sewing_needle: Blog
-[![Dev][Devto]][dev-url]
+### :sewing_needle: Blog posts
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<!--[![Dev][Devto]][dev-url]-->
+
 
 
 ### :telescope: Technology stack
