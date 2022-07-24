@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 ### :sewing_needle: Blog
 [![Dev][Devto]][dev-url]
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### :telescope: Technology stack
 #### Programming Languages:
 
