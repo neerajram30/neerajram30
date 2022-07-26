@@ -11,9 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: neerajram30/neerajram30@main
-      - uses: vweevers/multi-checkout-action@v1
+      - uses: lowlighter/metrics@main
         with:
-          token: ${{ secrets.GITHUB_MACHINE_TOKEN }}
           feed_list: "https://dev.to/feed/neerajram30"
       
           
