@@ -8,6 +8,9 @@ jobs:
   dev-to-md:
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+ 
     - name: dev-to-md
       uses: neerajram30/neerajram30@main
     env:
