@@ -10,6 +10,6 @@ jobs:
     - name: dev-to-md
       uses: neerajram30/neerajram30@main
     env:
-      GITHUB_TOKEN: "${{ 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 }}"
-      DEV_API_KEY: "${{ iSACYixsYjg2bK3r7LEiLbxL }}"
-      NUM_OF_POSTS: "${{ 5 }}"
+      GITHUB_TOKEN: "${{ secrets.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 }}"
+      DEV_API_KEY: "${{ secrets.iSACYixsYjg2bK3r7LEiLbxL }}"
+      NUM_OF_POSTS: "${{ secrets.5 }}"
