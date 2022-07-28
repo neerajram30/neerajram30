@@ -1,14 +1,16 @@
-name: Latest blog post workflow
+name: Convert DEV Posts to Markdown
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+ schedule:
+     # At midnight twice a week on Monday and Fridayday
+    - cron:  '0 * * * *'
+ workflow_dispatch:
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  dev-to-md:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: neerajram30/neerajram30@master
-        with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+    - name: blog-post-workflow
+      uses: neerajram30/neerajram30@master
+    env:
+      GITHUB_TOKEN: "${{ secrets.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 }}"
+      DEV_API_KEY: "${{ secrets.iSACYixsYjg2bK3r7LEiLbxL }}"
+      NUM_OF_POSTS: "${{ 5 }}"
