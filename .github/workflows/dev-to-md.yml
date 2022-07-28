@@ -8,7 +8,7 @@ jobs:
   dev-to-md:
     runs-on: ubuntu-latest
     steps:
-    - name: blog-post-workflow
+    - name: dev-to-md
       uses: neerajram30/neerajram30@master
     env:
       GITHUB_TOKEN: "${{ secrets.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 }}"
