@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### :telescope: Opensource lover, looking for an opensource project to contribute 
 #### :man_student: Btech computer science graduate from COLLEGE OF ENGINEERING CHERTALA
 
-### :selfie: Social
+## :selfie: Social
 [![LinkedIn][Linkedin]][linkedinurl] [![Twitter][Twitter]][twitter-url] [![Instagram][Instagram]][instagram-url]
 
 
