@@ -23,8 +23,10 @@ I'm a kerala based Full stack web developer and programmer, currently working on
 ## ⚡Status       
 
 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neerajram30&theme=tokyonight)](https://git.io/streak-stats)
 
 
