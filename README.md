@@ -27,6 +27,11 @@ I'm a kerala based Full stack web developer and programmer, currently working on
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neerajram30&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neerajram30&theme=tokyonight)](https://git.io/streak-stats)
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
+
 ## :sewing_needle: Blog posts 
 
 <!-- BLOG-POST-LIST:START -->
